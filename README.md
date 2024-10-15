@@ -50,8 +50,8 @@ Empamed AI requires a valid API key for accessing Langchain Together services. T
 
 2. Load the API key in your environment:
    ```python
-   from dotenv import load_dotenv
-   load_dotenv()
+   import os
+   os.environ["TOGETHER_API_KEY"]=<Your-Together-API-Key>
    ```
 
 ### Example Code
