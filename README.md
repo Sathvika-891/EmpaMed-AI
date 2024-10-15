@@ -110,7 +110,7 @@ version = "0.1.0"
 authors = ["Sathvika Kopalli"]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 langchain-groq = "^0.2.0"
 duckduckgo-search = "^6.3.0"
 langchain = "^0.3.2"
