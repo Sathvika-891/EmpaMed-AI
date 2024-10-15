@@ -3,6 +3,13 @@
 ## Overview
 
 Empamed AI is an intelligent agent designed to assist users with health-related queries by leveraging a suite of tools for identifying medical terms, detecting emotions, and retrieving relevant research papers from PubMed. Built using Langchain's modular framework, Empamed AI interacts with users via chat, providing accurate and empathetic responses.
+# Empamed AI
+
+## Sample Chat Interface
+
+Here is a screenshot of the chat interface:
+
+![EmpaMed AI Sample Chat](images/EmpaMedAI.png)
 
 ## Features
 
