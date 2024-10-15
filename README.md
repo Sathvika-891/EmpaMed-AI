@@ -75,7 +75,7 @@ To install and run Empamed AI, ensure you have Python 3.11 installed. The depend
 1. Clone the repository:
    ```
    git clone https://github.com/your-repo/empamed-ai.git
-   cd empamed-ai
+   cd EmpaMed-AI
    ```
 
 2. Install dependencies using Poetry:
