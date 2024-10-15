@@ -1,6 +1,6 @@
 import mesop as me
 import mesop.labs as mel
-from agent import EmpamedAI
+from empamed_ai import EmpamedAI
 def on_load(e: me.LoadEvent):
   me.set_theme_mode("system")
 
