@@ -48,7 +48,6 @@ Here is a screenshot of the chat interface:
 
 ### API Key Setup
 Empamed AI requires a valid API key for accessing Langchain Together services. To use the tool:
-
 1. Load the API key in your environment:
    ```python
    import os
